@@ -1,22 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-
+@import "https://fonts.googleapis.com/css2?family=Cabin&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Raleway&display=swap";
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-
 .button {
     align-items: center;
 }
-
 h1 {
     font-size: 40px;
     font-family: Cabin;
     text-align: center;
 }
-
 h3 {
     display: inline-block;
     font-size: 20px;
@@ -24,8 +20,6 @@ h3 {
     margin: 0 0 5px 20px;
     color: dimgray;
 }
-
-
 ul {
 
     list-style: none;
@@ -36,39 +30,31 @@ ul {
     padding: 30px;
     width: 1500px;
 }
-
-
 li {
     margin-bottom: 70px;
 }
-
 .flag {
     width: 35px
 
 }
-
 .population {
     font-family: Raleway;
     font-size: 15px;
     margin: 0 0 20px 0;
 }
-
 .Africa {
     color: steelblue;
 }
-
 .Americas {
     color: mediumseagreen;
 }
-
 .Asia {
     color: crimson;
 }
-
 .Europe {
     color: goldenrod;
 }
-
 .Oceania {
     color: mediumslateblue;
 }
+/*# sourceMappingURL=index.be5cf2f4.css.map */

@@ -1,0 +1,48 @@
+@import "https://fonts.googleapis.com/css2?family=Cabin&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Raleway&display=swap";
+h1 {
+    font-size: 40px;
+    font-family: Cabin;
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3 {
+    display: inline-block;
+    font-size: 30px;
+    font-family: Cabin;
+    margin: 0 0 40px 20px;
+    color: dimgray;
+}
+.flag {
+    width: 70px
+
+}
+p {
+    font-family: Raleway;
+    font-size: 15px;
+    margin: 0 0 12px 0;
+}
+#bar {
+    display: block;
+    margin: 0 auto
+}
+#button {
+
+    display: block;
+    margin: 0 auto
+
+}
+#container {
+    flex-direction: column;
+    justify-content: center;
+    width: 550px;
+    border-radius: 20px;
+    background-color: #F4F4F8;
+    margin: auto;
+    padding: 30px;
+}
+/*# sourceMappingURL=Search.835dbad9.css.map */
