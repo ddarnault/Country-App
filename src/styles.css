@@ -7,6 +7,9 @@
     margin-right: auto;
 }
 
+.button {
+    align-items: center;
+}
 
 h1 {
     font-size: 40px;
@@ -24,10 +27,16 @@ h3 {
 
 
 ul {
+
     list-style: none;
     column-count: 3;
-    gap: 80px;
+    border-radius: 20px;
+    background-color: #F4F4F8;
+    margin: auto;
+    padding: 30px;
+    width: 1500px;
 }
+
 
 li {
     margin-bottom: 70px;
